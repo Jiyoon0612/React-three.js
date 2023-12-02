@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "NEXON Lv2 Gothic OTF Medium";
+  font-weight: normal;
+  src: url("/fonts/A_NEXON_Lv2_Gothic/NEXON Lv2 Gothic Medium.ttf") format("truetype");
+}
+
+body {
+  font-family: "NEXON Lv2 Gothic OTF Medium";
+  margin: 0;
+}
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+h1 {
+  color: #aeaffc;
+  font-family: 'Pacifico';
+  text-shadow: -.08em .08em #3030308a;
+}
