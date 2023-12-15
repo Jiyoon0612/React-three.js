@@ -17,9 +17,7 @@ react + three.js를 사용한 3D 오브젝트 웹페이지
 <br>
 ## 구현 기능
 
-### 기능 1
-<br>
-##### Main Page
+#### Main Page
  <img src="https://github.com/Jiyoon0612/React-three.js/assets/137297934/7bfe298d-f4e5-4be5-b137-888eeb641d39">
 
 <br>
