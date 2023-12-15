@@ -6,28 +6,15 @@ react + three.js를 사용한 3D 오브젝트 웹페이지
   <br>
 </p>
 
-목차
 
 ## 프로젝트 소개
 
 <p align="justify">
-프로젝트 개요/동기
+* React 라이브러리를 조금 더 학습하기 위해 만들게 되었습니다.
+* three.js를 학습하고, 3D요소에 대해 학습하기 위해 만들었습니다.
+* blender 3d요소 모델링 학습
 </p>
-
-<p align="center">
-GIF Images
-</p>
-
 <br>
-
-## 기술 스택
-
-| JavaScript | TypeScript |  React   |  Node   |
-| :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
-
-<br>
-
 ## 구현 기능
 
 ### 기능 1
@@ -43,7 +30,8 @@ GIF Images
 ## 배운 점 & 아쉬운 점
 
 <p align="justify">
-
+ 1. 3D 요소의 구조와 조도와 카메라 시점에 대해 공부해야한다고 느꼈습니다.
+ 2. React의 자세한 학습의 필요성을 느꼈습니다.
 </p>
 
 <br>
