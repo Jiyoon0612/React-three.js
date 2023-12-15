@@ -18,12 +18,9 @@ react + three.js를 사용한 3D 오브젝트 웹페이지
 ## 구현 기능
 
 ### 기능 1
-
-### 기능 2
-
-### 기능 3
-
-### 기능 4
+<br>
+##### Main Page
+ <img src="https://github.com/Jiyoon0612/React-three.js/assets/137297934/7bfe298d-f4e5-4be5-b137-888eeb641d39">
 
 <br>
 
@@ -35,17 +32,5 @@ react + three.js를 사용한 3D 오브젝트 웹페이지
 </p>
 
 <br>
-
-## 라이센스
-
-MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
-
-<!-- Stack Icon Refernces -->
-
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
-
 
 
