@@ -23,7 +23,7 @@ react + three.js를 사용한 3D 오브젝트 웹페이지
 ## 구현 기능
 
 #### Myskile Page
-<img src"https://github.com/Jiyoon0612/React-three.js/assets/137297934/4f60fcab-9c11-4acc-bcf5-88af5a894c58">
+<img src="https://github.com/Jiyoon0612/React-three.js/assets/137297934/4f60fcab-9c11-4acc-bcf5-88af5a894c58">
 <br>
 
 #### Connect Page
