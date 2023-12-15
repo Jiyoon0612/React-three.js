@@ -2,7 +2,7 @@
 react + three.js를 사용한 3D 오브젝트 웹페이지
 <p align="center">
   <br>
-  <img src="![3 (1)](https://github.com/Jiyoon0612/React-three.js/assets/137297934/2af4e262-cb33-4a4e-97c5-c3fe5fa0ced5)">
+![3 (1)](https://github.com/Jiyoon0612/React-three.js/assets/137297934/2af4e262-cb33-4a4e-97c5-c3fe5fa0ced5)
   <br>
 </p>
 
